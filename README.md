@@ -15,3 +15,5 @@ pip install -r requirements.txt
 ALLOWED_USER_ID = xxxxxxx  # 你的 Telegram 用户 ID
 
 python bot.py
+
+免费的openAI API  https://github.com/popjane/free_chatgpt_api
