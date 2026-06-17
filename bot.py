@@ -86,7 +86,7 @@ class UserManager:
 user_manager = UserManager()
 
 # ========== 权限控制 ==========
-ALLOWED_USER_ID = 722871213  # 你的 Telegram 用户 ID
+ALLOWED_USER_ID = xxxxxxx  # 你的 Telegram 用户 ID
 
 def restricted(func):
     """装饰器：只允许指定用户使用"""
